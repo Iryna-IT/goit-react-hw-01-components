@@ -10,8 +10,8 @@ const StatListItem = ({ label, percentage }) => {
   const classes = useStyles();
   return (
     <li className={classes.item} style={{ backgroundColor: getBgColor(), }}>
-    <span className={classes.label}>{label}</span>
-    <span className={classes.percentage}>{percentage}%</span>
+      <span className={classes.label}>{label}</span>
+      <span className={classes.percentage}>{percentage}%</span>
     </li>
   );
 };
