@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-components",
+  "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Iryna-IT.github.io/goit-react-hw-components",
+  "homepage": "https://Iryna-IT.github.io/goit-react-hw-01-components",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
